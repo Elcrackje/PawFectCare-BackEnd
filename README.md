@@ -16,7 +16,7 @@ dueños de mascotas pueden consultar los historiales médicos y beneficios de la
 - Spring Boot Framework
 - Spring Data JPA
 - Validation
-- MySQL Database
+- PostgreSQL Database
 - Domain-Driven Design
 
 ## Bounded Contexts
